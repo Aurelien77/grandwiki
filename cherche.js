@@ -7,7 +7,7 @@ const cherche =()=> {
 
 
 
-url= "http://127.0.0.1:3000/api";
+url= "https://grandwiki.herokuapp.com/api";
 
 const fetchGetMessageHandler = async () => { 
 
